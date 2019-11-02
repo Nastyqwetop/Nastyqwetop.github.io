@@ -1,0 +1,16 @@
+#a1{
+    width:700px;
+	height:400px;
+	border:2px solid black;
+	margin:20px;
+	box-shadow: 8px 11px 11px black;
+}
+p{
+    font-size:30px;
+}
+ol{
+	font-size:20px;
+}
+body{
+	background-color:#F5FC93;
+}
